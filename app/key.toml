@@ -1,0 +1,6 @@
+title = "Youtube API Configuration"
+[config]
+keys = [
+  ""
+]
+query = "cricket"
