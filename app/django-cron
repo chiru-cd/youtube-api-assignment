@@ -1,0 +1,1 @@
+*/5 * * * * cd /usr/src/app/ && python manage.py runcrons >> /tmp/youtube_cronjob.log
